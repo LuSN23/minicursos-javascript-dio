@@ -21,3 +21,6 @@ Abas:
     **SEARCH:**
    - Para pesquisas de palavras-chave dentro dos seus arquivos.
    - Para substituir palavras pesquisadas dentro dos seus arquivos com o *replace*.
+
+    **SOURCE CONTROL:**
+    - Trata-se de uma integração com o GitHub a partir de botões para inicializar repositórios(o *Initialize Repository*) e para publicar, fazer um push para o GitHub(o *Publish to Github*)
