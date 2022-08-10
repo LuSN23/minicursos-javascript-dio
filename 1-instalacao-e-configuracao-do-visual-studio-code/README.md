@@ -27,3 +27,15 @@ Abas:
 
     **RUN AND DEBUG:**
     - Para debugar e rodar alguns programas, mais voltado para códigos usados no Terminal.
+
+Configurações(*Settings*): (Fica em File => Preferences)
+*Editor: Font Size* = Aumenta e diminue o tamanho da fonte do texto no Editor.
+*Editor: Tab Size* = Para pre-determinar o tamanho do espaço que a tecla *Tab* imprimirá quando acionada. (Necessário que feche-se o arquivo e abra-o de novo para que as mudanças realizadas tenham efeito).
+- O tamanho usado em *Tab* será avisado pelos colaboradores do projeto que você faça parte.
+*Files: Auto Save* = Para salvar sozinho. Opções: desligado, salvar depois de um tempo, salvar quando mudar o foco dentro do Editor, salvar quando mudar de janela.
+*Editor: Font Family* = As fontes que você quer usar.
+*Editor: Cursor Style* = Para mudar o tipo, pode ser por exemplo do tipo *underline*.
+*Editor: Multi Cursor Modifier* = Faz com que ao clicar a tecla *ALT* eu possa selecionar simultaneamente várias linhas, clicando e escolhendo quais delas, e editá-las ao mesmo tempo.
+*Editor: Word Wrap* = Ativa a quebra de linha com a opção *Editor: Word Wrap* configurada.
+*Editor: Word Wrap Column* = Cada espaço no Editor representa uma coluna, assim como acontece com as linhas, então com essa opção é possível configurar quantas linhas serão escritas até a quebra de linha automática, precisa estar conectada à opção *Editor: Word Wrap*.
+- Em Settings é possivel usar a barra de buscas para encontrar a configuração desejada.
