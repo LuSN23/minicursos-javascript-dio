@@ -39,3 +39,10 @@ Configurações(*Settings*): (Fica em File => Preferences)
 *Editor: Word Wrap* = Ativa a quebra de linha com a opção *Editor: Word Wrap* configurada.
 *Editor: Word Wrap Column* = Cada espaço no Editor representa uma coluna, assim como acontece com as linhas, então com essa opção é possível configurar quantas linhas serão escritas até a quebra de linha automática, precisa estar conectada à opção *Editor: Word Wrap*.
 - Em Settings é possivel usar a barra de buscas para encontrar a configuração desejada.
+
+
+Alguns comandos: 
+- Para procurar por arquivos(digite o nome e ENTER e ele abrirá no Editor): *CTRL + p*
+- Para procurar por comandos(do VSCode e de extensões instaladas, ao selecioná-los e ENTER insere o comando no Editor, mostra também atalhos associados a eles, é possível configurar estes): *CTRL + Shift + p*.
+- Para ver todos os possíveis atalhos para teclado(*Keyboard Shortcuts*): *CTRL+k*, *CTRL + s* e File => Preferences => Keyboard Shortcuts
+- No x de fechar cada arquivo aparece uma bolinha preenchida se você ainda não salvou o arquivo.
