@@ -24,3 +24,6 @@ Abas:
 
     **SOURCE CONTROL:**
     - Trata-se de uma integração com o GitHub a partir de botões para inicializar repositórios(o *Initialize Repository*) e para publicar, fazer um push para o GitHub(o *Publish to Github*)
+
+    **RUN AND DEBUG:**
+    - Para debugar e rodar alguns programas, mais voltado para códigos usados no Terminal.
