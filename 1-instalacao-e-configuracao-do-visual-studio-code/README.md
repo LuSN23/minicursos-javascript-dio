@@ -17,3 +17,7 @@ Abas:
    **EXPLORADOR:** 
    - O **Open Editors** exibe os arquivos abertos no momento, ajuda em casos em que há muitas pastas abertas para poder navegar por elas e localizar o que você procura.
    - Na segunda parte do explorador, após os botões de criar arquivo e pasta tem um botão para atualizar o explorador. 
+
+    **SEARCH:**
+   - Para pesquisas de palavras-chave dentro dos seus arquivos.
+   - Para substituir palavras pesquisadas dentro dos seus arquivos com o *replace*.
