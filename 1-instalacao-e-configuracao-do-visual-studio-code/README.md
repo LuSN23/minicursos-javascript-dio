@@ -46,3 +46,16 @@ Alguns comandos:
 - Para procurar por comandos(do VSCode e de extensões instaladas, ao selecioná-los e ENTER insere o comando no Editor, mostra também atalhos associados a eles, é possível configurar estes): *CTRL + Shift + p*.
 - Para ver todos os possíveis atalhos para teclado(*Keyboard Shortcuts*): *CTRL+k*, *CTRL + s* e File => Preferences => Keyboard Shortcuts
 - No x de fechar cada arquivo aparece uma bolinha preenchida se você ainda não salvou o arquivo.
+
+EMMET: (Atalhos para estruturas de código - aumento de produtividade)
+**html:5** (cria o esqueleto de um documento HTML5), depois pressionando *Tab* é possível navegar pelas palavras selecionadas para edição mais rápida.
+**div2** (cria 2 *divs*)
+**div>p>a** (cria uma *div* com um *p* dentro e um *a* dentro do parágrafo. Para criar estruturas aninhadas automaticamente)
+**div>h1+p** (*div* com um *p* dentro e um *h1* e *p* de mesmo nível)
+**p{Conteúdo}** (p com conteúdo Conteúdo)
+**nav.menu>ul>li * 5>a:link** (Um *nav* com uma *class* menu com uma *ul* com 5 *li* dentro, dentro de cada *a* com *href*)
+- Para voltar atrás o *CTRL + Z*
+**nav.menu>ul>li#item$ * 5>a** (o mesmo exemplo acima mas acrescentando um id para cada *li* numa iteração, ou seja, item1, item2, item3...)
+**section * 5#secao$>article.conteudo>h1+p{Texto}|c** (5 seções com o *id* seção e a iteração, e em seguida dentro de cada uma dessas seções, um *article* com a *class* conteudo e dentro de cada um desses um *h1* com um *p* com o conteúdo Texto e + um comment filter |c que acrescenta um comentário a cada fim de *section* e começo delas com a numeração da iteração).
+
+
